@@ -69,4 +69,4 @@ machine in the game, with the game's own pictures: how things are made and what 
 This repository holds the published wiki and the game's builds, not its source. It is generated from the game's private repository by
 `tools/wiki/publish.py` - **do not edit it here**: every publish replaces it whole.
 
-Last published from commit `efb47a21` on 2026-10-15.
+Last published from commit `52192031` on 2026-10-15.

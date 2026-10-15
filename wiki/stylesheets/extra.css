@@ -25,6 +25,20 @@
 .md-typeset .range .fill { position: absolute; top: 0; bottom: 0; border-radius: 3px; border: 1px solid #0b0e14; }
 .md-typeset table:not([class]) { font-size: .72rem; }
 
+/* The front door's tiles, and a hub's grid of things - pictures first, a wiki and not a list (SBX-0729). */
+.md-typeset .tiles ul, .md-typeset .chips ul { list-style: none; margin: 1rem 0; padding: 0; display: grid; gap: .8rem; }
+.md-typeset .tiles ul { grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr)); }
+.md-typeset .chips ul { grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr)); gap: .4rem; }
+.md-typeset .tiles li, .md-typeset .chips li { margin: 0; }
+.md-typeset .tiles a { display: flex; flex-direction: column; align-items: center; gap: .5rem; height: 100%;
+  padding: 1.1rem .7rem; background: #161a22; border: 1px solid #2E3542; border-radius: 8px; text-align: center; }
+.md-typeset .tiles a:hover, .md-typeset .chips a:hover { border-color: #FFC53D; }
+.md-typeset .tiles img.tile { height: 64px; width: auto; max-width: 100%; object-fit: contain; }
+.md-typeset .tiles .tile-title { font-weight: 700; font-size: .85rem; color: #FFC53D; }
+.md-typeset .tiles .tile-text { font-size: .66rem; color: #9AA3B0; }
+.md-typeset .chips a { display: flex; align-items: center; gap: .45rem; padding: .3rem .5rem; font-size: .7rem;
+  background: #161a22; border: 1px solid #2E3542; border-radius: 5px; color: #E8ECF2; }
+
 /* The wiki card: floated right, the text flowing to its left; above the text on a narrow screen. */
 .md-typeset .infobox { float: right; clear: right; width: 18rem; margin: 0 0 1.2rem 1.6rem; padding: .7rem;
   background: #161a22; border: 1px solid #2E3542; border-radius: 6px; font-size: .68rem; }
