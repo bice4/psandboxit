@@ -27,4 +27,4 @@ SandboxIt is in development and runs on Windows. Builds are not published here y
 This repository holds the published wiki only. It is generated from the game's private repository by
 `tools/wiki/publish.py` - **do not edit it here**: every publish replaces it whole.
 
-Last published from commit `9ced3f3b` on 2026-10-15.
+Last published from commit `e61b8f43` on 2026-10-15.
