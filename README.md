@@ -1,8 +1,30 @@
-# SandboxIt - published output
+# SandboxIt
 
-Generated from the private SandboxIt repository by `tools/wiki/publish.py` - **do not edit here**; a change
-made here is overwritten by the next publish.
+**A 2D sandbox survival game where the whole world is simulated matter** - think Terraria meets Noita. Sand
+falls, water runs, lava cools to stone, things burn, and every cell has a temperature. You are an engineer stranded
+on a strange planet, and everything you build is made of what you dig: a clay furnace, then metal, machines, pipes
+and tubes between them, and in the end a way home.
 
-- `wiki/` - the players' wiki, built with MkDocs Material.
+## The wiki
 
-Last published from commit `f370c819` on 2026-10-15.
+**[Open the SandboxIt Wiki](https://bice4.github.io/psandboxit/wiki/)** - every material, item, station, recipe and
+machine in the game, with the game's own pictures, how things are made and what they are for.
+
+## What is in the game
+
+- **Matter that behaves** - sand, water, oil, gases, lava, fire and steam, each with its own physics, heat and reactions.
+- **Build from what you dig** - one tree of stations and recipes, from a furnace to oil, walked by quests.
+- **A world worth reading** - generated worlds with biomes above and below, caves, water, a lava floor, plants
+  that grow, day and night.
+- **Machines that run themselves** - tubes and pipes carry matter between stations; drones, power and signals keep
+  a base going while you are away.
+- **A story** - a ship to repair, corporations to trade with, and a way home.
+
+SandboxIt is in development and runs on Windows. Builds are not published here yet.
+
+## About this repository
+
+This repository holds the published wiki only. It is generated from the game's private repository by
+`tools/wiki/publish.py` - **do not edit it here**: every publish replaces it whole.
+
+Last published from commit `9ced3f3b` on 2026-10-15.
