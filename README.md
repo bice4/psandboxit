@@ -62,11 +62,12 @@ beside the zip holds its SHA-256.
 ## The wiki
 
 **[Open the SandboxIt Wiki](https://bice4.github.io/psandboxit/wiki/)** - every material, item, station, recipe and
-machine in the game, with the game's own pictures: how things are made and what they are for.
+machine in the game, with the game's own pictures: how things are made and what they are for. It is the wiki of
+**version 0.3.3**, the latest release - what is still in development is not on it.
 
 ## About this repository
 
 This repository holds the published wiki and the game's builds, not its source. It is generated from the game's private repository by
 `tools/wiki/publish.py` - **do not edit it here**: every publish replaces it whole.
 
-Last published from commit `aa6f47a6` on 2026-10-16.
+Last published from release `v0.3.3` (commit `ed67c460`) on 2026-10-18.
