@@ -10,7 +10,10 @@ strange planet after your ship came down. Everything you build is made of what y
 metal, machines and the pipes and tubes between them - and every machine is one step closer to home.
 
 **[Download for Windows](https://github.com/bice4/psandboxit/releases/latest)** ·
-**[Read the wiki](https://bice4.github.io/psandboxit/wiki/)**
+**[Read the wiki](https://bice4.github.io/psandboxit/wiki/)** ·
+**[Вікі українською](https://bice4.github.io/psandboxit/wiki/uk/)**
+
+**In English and Ukrainian** - the game and its wiki both.
 
 ## Matter is real
 
@@ -53,6 +56,12 @@ drones, a drill rig and a lift turn a camp into a plant that keeps working while
 
 SandboxIt is in development and runs on Windows (64-bit). Each release says what is new and what is still rough.
 
+## Languages
+
+The game speaks **English** and **Ukrainian** (українська): pick one under *Settings* - every window, quest, datalog
+entry and item name follows. The wiki is in both languages too, page for page, with a switch in its header that keeps
+you on the page you are reading.
+
 ## Download
 
 **[Get the latest build](https://github.com/bice4/psandboxit/releases/latest)** - a zip. Unpack it somewhere you
@@ -64,6 +73,9 @@ beside the zip holds its SHA-256.
 **[Open the SandboxIt Wiki](https://bice4.github.io/psandboxit/wiki/)** - every material, item, station, recipe and
 machine in the game, with the game's own pictures: how things are made and what they are for. It is the wiki of
 **version 0.3.3**, the latest release - what is still in development is not on it.
+
+**[Вікі SandboxIt українською](https://bice4.github.io/psandboxit/wiki/uk/)** - the same wiki in Ukrainian, with the
+game's windows shown in Ukrainian.
 
 ## About this repository
 
