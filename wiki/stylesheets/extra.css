@@ -7,6 +7,7 @@
   --md-typeset-a-color: #FFC53D;
 }
 .md-typeset img { image-rendering: pixelated; }
+.md-nav--primary > .md-nav__list > .md-nav__item--section { border-top: 1px solid #2E3542; margin-top: .5rem; padding-top: .5rem; }
 .md-typeset img.sprite { max-height: 320px; margin-right: .6rem; vertical-align: bottom; }
 .md-typeset img.thumb { height: 28px; width: auto; vertical-align: middle; }
 .md-typeset img.map { image-rendering: auto; }
