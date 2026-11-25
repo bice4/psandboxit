@@ -52,7 +52,7 @@ drones, a drill rig and a lift turn a camp into a plant that keeps working while
 
 - generated worlds in three sizes, with biomes on the surface and underground, caves, lakes and a lava floor
 - plants that grow, burn and fall; day and night; a ruin in the desert with a story in it
-- a crashed ship to repair, corporations to trade and take contracts with, and a passage off the planet
+- a crashed ship to repair, corporations to trade and take contracts with, and an orbital station to fly to
 
 SandboxIt is in development and runs on Windows (64-bit). Each release says what is new and what is still rough.
 
@@ -72,7 +72,7 @@ beside the zip holds its SHA-256.
 
 **[Open the SandboxIt Wiki](https://bice4.github.io/psandboxit/wiki/)** - every material, item, station, recipe and
 machine in the game, with the game's own pictures: how things are made and what they are for. It is the wiki of
-**version 0.3.6**, the latest release - what is still in development is not on it.
+**version 0.4.0**, the latest release - what is still in development is not on it.
 
 **[Вікі SandboxIt українською](https://bice4.github.io/psandboxit/wiki/uk/)** - the same wiki in Ukrainian, with the
 game's windows shown in Ukrainian.
@@ -82,4 +82,4 @@ game's windows shown in Ukrainian.
 This repository holds the published wiki and the game's builds, not its source. It is generated from the game's private repository by
 `tools/wiki/publish.py` - **do not edit it here**: every publish replaces it whole.
 
-Last published from release `v0.3.6` (commit `b1e3960cb`) on 2026-11-02.
+Last published from release `v0.4.0` (commit `09ed4fa29`) on 2026-11-25.
